@@ -12,5 +12,9 @@ config_version=5
 
 config/name="TP2"
 config/description="Enter an interesting project description here!"
-config/features=PackedStringArray("4.3")
+config/features=PackedStringArray("4.1")
 config/icon="res://icon.png"
+
+[dotnet]
+
+project/assembly_name="TP2"
